@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal academy of complements. Wherein is set forth, a new packet of letters erected for ladies, gentlewomen, courtiers, gentlemen, scholars, souldiers, citizens, country-men, and all persons of what degree soever of both sexes, viz Complemental expressions towards men and women; leading to the art of courtship. 1. A tender of service to a King. 2. A tender of service to a Queen. 3. Respects from an honourable Lady to a Queen. 4. A fair young virgin to an old rich miser, whom her guardian did design should wed her. 5. A gentlemans request to his friend, to borrow money. 6. A gentleman to his friend, that sent to borrow money. 7. A virgin to her parents, that would have matched her to one whom she cannot love. 8. A courteous lass to her paramour, who had gotten her with child. 9. A husband to his lascivious wife. 10. A wife to her extravagant husband! 11. Civilities from one lady to another. 12. The forsaken maid, to her treacherous friend. 13. One ladies advice to another near marriage. 14. A gentleman to his lady, upon his urgent occasion to taking a journey. Composed by the most refin'd wits of this age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92039</idno>
+            <idno type="STC">Wing R2099A</idno>
+            <idno type="STC">ESTC R230171</idno>
+            <idno type="EEBO-CITATION">99895932</idno>
+            <idno type="PROQUEST">99895932</idno>
+            <idno type="VID">153524</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153524)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2369:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal academy of complements. Wherein is set forth, a new packet of letters erected for ladies, gentlewomen, courtiers, gentlemen, scholars, souldiers, citizens, country-men, and all persons of what degree soever of both sexes, viz Complemental expressions towards men and women; leading to the art of courtship. 1. A tender of service to a King. 2. A tender of service to a Queen. 3. Respects from an honourable Lady to a Queen. 4. A fair young virgin to an old rich miser, whom her guardian did design should wed her. 5. A gentlemans request to his friend, to borrow money. 6. A gentleman to his friend, that sent to borrow money. 7. A virgin to her parents, that would have matched her to one whom she cannot love. 8. A courteous lass to her paramour, who had gotten her with child. 9. A husband to his lascivious wife. 10. A wife to her extravagant husband! 11. Civilities from one lady to another. 12. The forsaken maid, to her treacherous friend. 13. One ladies advice to another near marriage. 14. A gentleman to his lady, upon his urgent occasion to taking a journey. Composed by the most refin'd wits of this age.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. H. and are to be sold by Absalom Chamberlain, over against the Cap and Feather, in White Cross-street, next to Old-street: removed from Swan-alley, in St. John-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>MS. note on title page: 21. Jan: 1687/6.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Courtship --  England --  Early works to 1800.</term>
+               <term>Husband and wife --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153524:1" rendition="simple:additions"/>
+            <p>THE Royal Academy OF COMPLEMENTS. Wherein is ſet forth, a New Packet of Letters erected for Ladies, Gentlewomen, Courti<g ref="char:EOLhyphen"/>ers, Gentlemen, Scholars, Souldiers, Citi<g ref="char:EOLhyphen"/>zens, Country-men, and all perſons of what degree ſoever of both Sexes, <hi>viz.</hi>
+            </p>
+            <p>Complemental expreſſions towards men and Women; leading to the Art of Courtſhip.</p>
+            <list>
+               <item>1. A Tender of Service to a King.</item>
+               <item>2. A Tender of Service to a Queen.</item>
+               <item>3. Reſpects from an Honourable Lady to a Queen.</item>
+               <item>4. A Fair Young Virgin to an Old Rich Miſer, whom her Guardian did deſign ſhould Wed her.</item>
+               <item>5: A Gentlemans requeſt to his Friend, to borrow Money.</item>
+               <item>6. A Gentleman to his Friend, that ſent to borrow Money.</item>
+               <item>7. A Virgin to her Parents, that would have Matched her to one whom ſhe cannot Love.</item>
+               <item>8. A Courteous Laſs to her Paramour, who had gotten her with Child,</item>
+               <item>9. A Husband to his Laſcivious Wife.</item>
+               <item>10. A Wife to her extravagant Husband.</item>
+               <item>11. Civilities from one Lady to another.</item>
+               <item>12. The forſaken Maid, to her Treacherous Friend.</item>
+               <item>13. One Ladies advice to another near Marriage.</item>
+               <item>14. A Gentleman to his Lady, upon his urgent occaſion of taking a Journey.</item>
+            </list>
+            <p>
+               <hi>Compoſed by the moſt Refin'd Wits of this Age.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. H.</hi> and are to be ſold by <hi>Abſalom Chamberlain,</hi> over againſt the <hi>Cap</hi> and <hi>Feather,</hi> in <hi>White Croſs-ſtreet,</hi> next to <hi>Old-ſtreet:</hi> removed from <hi>Swan-alley,</hi> in St. <hi>John-ſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153524:2"/>
+            <pb facs="tcp:153524:2"/>
+            <head>The Royal Academy of Com<g ref="char:EOLhyphen"/>plements.</head>
+            <list>
+               <item>SIR, the pleaſure I entertain to conſider your goodneſs, is more ſatisfaction to me than my advancement.</item>
+               <item>Sir, ſhould I not render you thanks for your many favours, I ſhould dye of a deep impati<g ref="char:EOLhyphen"/>ence.</item>
+               <item>Sir, 'Tis my ambition to conſerve the ho<g ref="char:EOLhyphen"/>nour I have obtain'd of being your Servant.</item>
+               <item>Sir, you are noble in all reſpects, that I have learn'd to love, as well as to admire you.</item>
+               <item>Sir, your paſſions are mine; nor can I live more in freedom, than when I am bound to you in the bonds of Friendſhip.</item>
+               <item>Sir, you are the Riſing Sun which I adore.</item>
+               <item>Sir, I wear you in my heart.</item>
+               <item>Sir, you are the Star I reach at.</item>
+               <item>Sir, you are the Miracle of Friendſhip.</item>
+               <item>Sir, ſhould I twine my Arms to Cable, ſit up all Night like a Watching-candle, and deſtil my Brains through my Eye-lids, yet I muſt love you: I then loving you, and you me, who is the third perſon ſhall hinder us?</item>
+            </list>
+            <div type="part">
+               <pb facs="tcp:153524:3"/>
+               <head>Complements towards Ladies, Gentle<g ref="char:EOLhyphen"/>women, Maids, <hi>&amp;c.</hi>
+               </head>
+               <p>MAdam, your Beauty is the Conquereſs of Man, who is never to be ſatisfied with the luſtre of your Eyes; Fair one, your Feature and Vertues, Excel all mortal ſenſe.</p>
+               <p>Madam, unleſs you give me your ſelf, it lies not in your Art, or Power, to requite that affection wherewith I do adore you.</p>
+               <p>Madam, I never yet offer'd my affections to any beauty but your own ; ſince then you have the preheminence above all others, be favou<g ref="char:EOLhyphen"/>rable to him that gives it, and with it, him<g ref="char:EOLhyphen"/>ſelf wholly to your diſpoſal.</p>
+               <p>Madam, be wiſe, and dote not ſo much up<g ref="char:EOLhyphen"/>on your own beauty; the man with the balld pate, can ſo alter your Phyſiognomy, that in a ſhort time it ſhall fright you more than a Judge does a Thief.</p>
+               <p>Madam, it is paſt your art to ſhun me, I will put a girdle round about the World but I will find you, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="letters">
+               <head>Letters upon ſeveral Occaſions.</head>
+               <floatingText type="letter">
+                  <body>
+                     <head>A tender of Service to a King.</head>
+                     <opener>
+                        <salute>May it pleaſe Your Majeſty,</salute>
+                     </opener>
+                     <p>I AM not ignorant of the great preſumption, wherewith at this time I give a trouble
+<pb facs="tcp:153524:3"/>to your Majeſty, nor can my deſerts give me any hopes that the leaſt beam of your love, ſhould ſhine on any thing that in me can be thought a Merit; ſince I have learn'd you my command in all things, and it is contrary to the duty I owe to Your Excellent Majeſty, to diſobey in any; but that Your Majeſty may know, you have a Subject that durſt be Loyal, even in Diſloyal times: I have now attempted to arrive at the height of my Felicities, which is, not only to be honeſt, but to be known to be Your Majeſties moſt Humble Servant, and Obedient Subject.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A tender of Service to a Queen.</head>
+                     <opener>
+                        <salute>May it pleaſe Your Majeſty,</salute>
+                     </opener>
+                     <p>THough I am a ſtranger to your Majeſty, yet ſince I bear your Glorious Title of a Loyal Subject, I have hence aſſurance, that your Majeſty will vouchſafe to give this bold<g ref="char:EOLhyphen"/>neſs a favourable aſpect; for indeed, I ſhould doubt my own Fidelity to my Royal Sovereign, ſhould not your Majeſty countenance my duty with an acceptance of my Service; let me now only beg trouble of a pardon, and I ſhall for ever ſtudy, as in duty bound, to manifeſt my ſelf,</p>
+                     <closer>
+                        <signed>Your Majeſties Loyal Subject, and moſt humble Servant.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:153524:4"/>
+               <floatingText type="letter">
+                  <body>
+                     <head>Reſpects from an Honourable Lady to a Queen.</head>
+                     <opener>
+                        <salute>Madam,</salute>
+                     </opener>
+                     <p>IF my paſſion had not over-rul'd my reaſon, I would certainly have kept my Letters from becoming ſo near an object for your ſa<g ref="char:EOLhyphen"/>cred eyes, till ſome commandment of your hand put them upon occaſion to give them at<g ref="char:EOLhyphen"/>tendance; but the care I have to preſerve my ſelf in the honour of your memory, and favour, will not ſuffer me to continue any longer ſilent; therefore moſt humbly pray your Majeſty, to continue your ſelf in aſſurance, even from hence, that my Devotions are ever aſpiring to your ſer<g ref="char:EOLhyphen"/>vice, which yet I ſhould half ſuſpect to be leſs perfect, if my inclinations might not own as great a part of that ambition as my obligations; but the one accompanying the other, will eſta<g ref="char:EOLhyphen"/>bliſh me for ever in an unchangeable reſolution of being,</p>
+                     <closer>
+                        <signed>Madam, Your Majeſties moſt humble Servant.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Fair Young Virgin to an Old Rich Miſer, whom her Guardian did deſign ſhould Wed her.</head>
+                     <opener>
+                        <salute>Honourabe Sir,</salute>
+                     </opener>
+                     <p>FOR I muſt acknowledge the truth of that old Proverb, that ſays, Age is Honourable;
+<pb facs="tcp:153524:4"/>for all that, give me leave to tell you, though I am under the Tuition of another, yet I am Miſtriſs of my own affections, and in truth, nei<g ref="char:EOLhyphen"/>ther your wiſdom or gravity, no nor your Riches can Charm me to affect you Sir, be ſo much your ſelf as to deſiſt from your Suit to me, be in Charity with the World, and in Love with Heavens, build Hoſpitals, that you may merit the Prayers of the Poor, and ſpend not your precious time in Dotage upon a Woman; for to be plain with you, I will ſooner Wed my ſelf to a Nunnery, or ſome Loathſome Goal, than become your Bedfellow, and ſhall even have a greater eſtimation for a wiſe man in Rags, than a fool in his Richeſt Trappings, if you Viſſit me or ſend to me any more; I ſhall conclude you Troubleſome, and Frantick; be viſed then ſince you know the mind and reſoluti<g ref="char:EOLhyphen"/>on of,</p>
+                     <closer>
+                        <signed>Sir none but your, and yours till Death.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Gentlemans requeſt to his Friend, for a Sum of Money.</head>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>LET me not be held no Friend, becauſe I ſend to borrow Money; I had rather want that, than loſe your Love; but, Sir, if you ſhall think fit to pardon my boldneſs, I deſire your patience ſo far as to meaſure the Length of your Purſe-ſtrings, ſince a preſent and urgent occaſion pulls me on this ſtrange ad<g ref="char:EOLhyphen"/>venture,
+<pb facs="tcp:153524:5"/>the Sum is but Five Pounds, which ſhall be paid within a Month, if you dare take my credit for the aſurance of it, and for Intereſt you ſhall have my thankful accknowledgments, thus not doubting of your Civilty in this caſe, I reſt as ever,</p>
+                     <closer>
+                        <signed>Your Friend and Servant.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Gentleman to his Friend, that ſent to borrow Money.</head>
+                     <opener>
+                        <salute>Sir;</salute>
+                     </opener>
+                     <p>OUR Friendſhip would be held by a ſlender Thread, if five pound weight could ſnap it; I have not only thought fit to pardon your bold<g ref="char:EOLhyphen"/>neſs but do eſteem my ſelf happy in that I have a Purſe or ſtrings to ſerve you your credit is ſuf<g ref="char:EOLhyphen"/>ficient, and therefore I have ſent you the Sum required: and ſhall expect no other intereſt than the like courteſie, if you think it one, when you ſhall be Troubled by,</p>
+                     <closer>
+                        <signed>Your hearty real Friend.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Virgin to her Parents, that would have her Matched to one whom ſhe cannot Love.</head>
+                     <opener>
+                        <salute>Moſt Dear Parents,</salute>
+                     </opener>
+                     <p>I Beſeech you, let the rules of nature be ſo prevalent with you, as not to Marry me me to the Man whom you deſign; but if you
+<pb facs="tcp:153524:5"/>do reſolve that I ſhall Marry, let it be to one that I can Love, or to my Grave, be not over ruled by the thoughts of Avarice, leſt you become in huemane, to your own blood and make me,</p>
+                     <closer>
+                        <signed>Your Sad, Sorrowful, and Afflicted Daughter.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Courteous Laſs to her Paramour, who had gotten her with Child.</head>
+                     <opener>
+                        <salute>Dear Sir,</salute>
+                     </opener>
+                     <p>I AM now conſtrained to confine my ſelf to a retired life, ſuch is the fruit of our dalli<g ref="char:EOLhyphen"/>ance that I am become obvious, and without your company ſhall be odious to all that ſee me; and like your ſelf, the Babe in my Womb, is continually exerciſing it ſelf in an Activity that affords me but little reſt: You cannot forget your promiſe to marry me e're you could prevail with me to ſatisfie your pleaſures. Sweet Sir, let your ſtay be ſhort, for prolixity is dangerous to both our Reputations, I Lan<g ref="char:EOLhyphen"/>guiſh till you come, and till then and ever ſhall remain my dear Soul:</p>
+                     <closer>
+                        <signed>Yours to love and live with you.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Husband to his Laſcivious Wife.</head>
+                     <opener>
+                        <salute>Wicked and Wretched Woman,</salute>
+                     </opener>
+                     <p>HAſt thou forgot all goodneſs, that thou dareſt lift up thy Adulterous eyes to be<g ref="char:EOLhyphen"/>hold
+<pb facs="tcp:153524:6"/>the Chriſtial light? Haſt thou no ſenſe of thy own filthy deformity? Doſt thou not know the World brands thee for a Whore, a notori<g ref="char:EOLhyphen"/>ous Strumpet? Art thou not ſenſible how thou haſt made me become a ſcum, and a by-word to all that know me? not that the credit of an honeſt man can be daſh'd by the infidelity of a Strumpet! But ſo it is, that the corruptions of the times have created a cuſtom, to ſet the Wives ſins upon the Husbands Fore<g ref="char:EOLhyphen"/>head; thy Children are either hated, or pityed by all, and I my ſelf dare not look upon them, leſt I permit my fears to whiſper to me thy Whoredoms, and their baſtardy; our Relations and thoſe that were formerly our boſome friends, do now forſake us, ſaying, they will not accompany themſelves with ſuch as belong to the houſe of ſhame, or that Trade of Incon<g ref="char:EOLhyphen"/>tinency; conſider theſe things and repent, leſt thy impenitency do farther provoke Divine Juſtice, and Heaven pour forth Vengeance as a reward for all thy Impieties; and withal, re<g ref="char:EOLhyphen"/>member this is the advice of Thy abuſed Hus band.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A VVife to her extravagant Husband.</head>
+                     <opener>
+                        <salute>Vain and Miſerable Man,</salute>
+                     </opener>
+                     <p>CAnſt thou open thy eyes, and not fear leſt every one that ſees thee ſhould revenge thoſe Adulterous and Laſcivious actions of
+<pb facs="tcp:153524:6"/>thine, wherewith thou haſt brought upon thee the curſes of a Chaſte Wife, with her dear and Innocent Babes, doth not thy Conſcience tell thee, there is an Everlaſting Lawgiver Sits in Triumph, againſt the day of Vengeance; to judge ſuch perverſe ſinners as you are: Doſt thou imagine that thoſe ſtrict Devils com<g ref="char:EOLhyphen"/>manded from the beginning, were but matters of policy, on that poſition of Man and Wife, being one fleſh, was meerly breath and exha<g ref="char:EOLhyphen"/>lation; ſurely it is ſo eſteemed by Atheiſts, and prophane livers; but I fear, to the eternal horrour of thy Soul, thou wilt roar in the Pit of everlaſting Perdition, from whence it is difficult to get redemption; therefore be no more fooliſh, but call to mind how thou haſt ſpent thy moſt precious time, endeavour to redeem it, and open the eyes of thy under<g ref="char:EOLhyphen"/>ſtanding, that thou mayeſt repent, and ſin no more, leſt a worſe thing happen unto thee; conſider that the lips of a Whore are ſweet as Honey to the taſte of Fools, but in their heart is the ſting of Scorpions, yea, the poiſon of Aſps lie under her lips; wilt thou then adven<g ref="char:EOLhyphen"/>ture the ſting when there is no Cataplaſms for the ſore? Wilt thou forget the Vertuous Wife of thy boſome, for a Strumpet that is not on<g ref="char:EOLhyphen"/>ly diſloyal, but impudent? Dareſt thou deſpiſe thy Children, thoſe gifts of the Almighties providence, reſembling Olive branches about thy Table, thoſe buds of the Divine bleſſings
+<pb facs="tcp:153524:7"/>promis'd to the good man; wilt thou run and wallow in the loathſome ſins of luſt, and car<g ref="char:EOLhyphen"/>nal bruitality, thou that mayeſt trace the plea<g ref="char:EOLhyphen"/>ſant walks of contentment, with honeſt and chaſte embracing; Oh! be more adviſed, leſt the contract of your Nuptial Vows prevail with thee: I conjure thee return to the pleaſant Springs of our Amity, that I may waſh thee clean again with the Tears and Kiſſes of a lo<g ref="char:EOLhyphen"/>ving Wife, that thou mayeſt ſee thy Children flouriſh, and that I may no longer be as my condition renders me,</p>
+                     <closer>
+                        <signed>Thy Sorrowful and Miſerable Wife.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>Civilities from one Lady to another.</head>
+                     <opener>
+                        <salute>Dear Madam,</salute>
+                     </opener>
+                     <p>MY ambition is ſtill to continue in your fa<g ref="char:EOLhyphen"/>vour, that it may prove as importunate as it is unjuſt, becauſe I never could deſerve it; yet I have no power to fruſtrate the effect of that, whereof you warrant the cauſe which occaſions my admiring of your worth; and ſince you have been pleaſed to aſſure me of your Friendſhip, and your Favour, I can do no leſs than offer my Service, which ſhall ever be in readineſs to attend your commands: I have had ſome young Gallants with me of late, who pro<g ref="char:EOLhyphen"/>miſed me more Viſits, and have ſent ſome Complements; by the next, I hope to be bet<g ref="char:EOLhyphen"/>ter furniſhed with ſomewhat new, to accompa<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:153524:7"/>thoſe ſo often ſaid, and ſhall perpetually, that I am, Madam,</p>
+                     <closer>
+                        <signed>Yours wholly at your Command.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>The Forſaken Maid, to her Treacherous Friend.</head>
+                     <opener>
+                        <salute>Moſt unkind Man,</salute>
+                     </opener>
+                     <p>IT is my exceeding wonder that you ſhould be one to make up the number of thoſe that dare to be wicked, now do I ſee my follies, when I hugged you in my Boſome and believed thoſe Oaths, and Proteſtations which you have moſt Villainouſly broke; now can I call to mind the advice my experienced friends gave me, never to truſt to the pretenſions of your Sex: Oh! can you ſee me on your knees with wet and ſwoln eyes, and yet not learn to love me, nor hate your ſelf; or have you no regard to that innocent Lamb as yet in my Wombe, which though of a ſmall Vollume, yet it is but your ſelf in a leſſer Frame: If you believe, or think, it is not yours, let me be ript up, and then you will perceive each member to bear the lively Image of your own, and your name likewiſe near it; for ſince you told me it ſhould be ſo call'd, I wrote it in my very heart; I have nothing more to ſay<g ref="char:punc">▪</g> but only to deſire you to be ſo true to your ſelf, and me, as to remember and perform your Vow; if not, be ſo merciful as to rid me of a loathſome Life,
+<pb facs="tcp:153524:8"/>for if you do neither, my deſign will be pub<g ref="char:EOLhyphen"/>lick, and rather then Live your Strumpet, I ſhall eſteem it a greater happineſs ſince my misfor<g ref="char:EOLhyphen"/>tunes have brought me, to the miſery to Die,</p>
+                     <closer>
+                        <signed>Your Sacrifice.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>One Ladies advice to another near Mar<g ref="char:EOLhyphen"/>riage.</head>
+                     <opener>
+                        <salute>Good Soul,</salute>
+                     </opener>
+                     <p>IT is an unruly Age we live in, and my Love hath occaſioned this trouble to you; I underſtand there is a Gentleman, Mr. <hi>A. B.</hi> is extreamly prodigal of his pretences to you, in the way of Love and Marriage; my caution is only this, that you have an eye to your own welfare. Build not upon empty promiſes, for if you once ſuffer him to pleaſe his Humour be<g ref="char:EOLhyphen"/>fore he is firmly yours, you will certainly For<g ref="char:EOLhyphen"/>feit your own Honour, conſider as he is above you in Purſe, and the Portions of this Life, Beauty only excepted, for nature hath given you a Bountiful Proportion, whether his Inten<g ref="char:EOLhyphen"/>tions are real or feigned make him your own; and then if you fall in two you, may underſtand the Phraſe by obſerving the occaſions he will be bound by the Laws of God, and man to bear part in whatſoever happens the Truth is: I had not taken upon me to give you this admo<g ref="char:EOLhyphen"/>nition did not report ſpeak loudly of his paſſi<g ref="char:EOLhyphen"/>ons for you, and his conditional promiſes to
+<pb facs="tcp:153524:8"/>be yours hereafter if you conſent to be his firſt, ſuch a Love hath ſubtil ſhifts, and more meanings than a Harmleſs Maid, can eaſily diſ<g ref="char:EOLhyphen"/>cover: Its reported too that you incline ſomewhat to believe him, and are apt to think he means nothing but what is Honourable, yet know this from one more experienced in things of this nature than you are, that if he ſhould perform his vows to you after he hath Feaſted his appetite, yet ſuch a breathing your reputa<g ref="char:EOLhyphen"/>tion will continually admit of checks, oppro<g ref="char:EOLhyphen"/>brious terms, as Strumpet, Slut, Light-houſe<g ref="char:EOLhyphen"/>wife; and what did you afford me that another Man might not have had, and when the Glaſs is once broken it is not eaſily cemented: dear Soul, keep Heaven about you, and let good thoughts Guard your Innocency, ſo ſhall your Honour be unſpotted; and your Life happy which is the earneſt Deſire of.</p>
+                     <closer>
+                        <signed>
+                           <hi>Your Cordial Friend, and Servant</hi> &amp;c.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter">
+                  <body>
+                     <head>A Gentleman to his Lady, tupon his ur<g ref="char:EOLhyphen"/>gent occaſion of taking a Journey.</head>
+                     <opener>
+                        <salute>Honoured Dear Lady,</salute>
+                     </opener>
+                     <p>HAD not Chriſtianity tied me to a ſtricter Rule, I could, even curſe the ſeverity of my Fate; ſince neceſſity compels me to be ban<g ref="char:EOLhyphen"/>iſhed from you, and conſequently from my ſelf; for let me go never ſo far diſtant, my Heart will be always in your cuſtody, and the thoughts of
+<pb facs="tcp:153524:9"/>your dear ſelf only my conſolation, but that I ſhould be thus injoyned to me more, my perſon from you in whom conſiſteth all my comfort and delight, is no ſmall grief to me, eſpecially conſi<g ref="char:EOLhyphen"/>dering the Life I apprehended in your favour; the Heaven that I diſcovered in your ſmiles, and all thoſe delicious joys, that adored your coun<g ref="char:EOLhyphen"/>tenance, yet ſince it muſt be ſo, be aſſured my Deareſt Dear, I ſhall not forget the vows of my devotion, and I will be proud to Publiſh your vertues to the Ignorant World: till I be<g ref="char:EOLhyphen"/>come compleatly happy in my experience of your conſtancy; nor, ſhall I move in any other Sephere than what your influence doth govern; and will ſooner Languiſh, to the worſt of Deaths, than Love any but your divine Self, thus, my only joy, leaving my Heart in your Tuition, I only beſeech you to be tender of it, for it's own, for yours, or for my ſake; and in expectation of my happy return, I reſt,</p>
+                     <closer>
+                        <signed>Your Faithful, Humble Servant.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
